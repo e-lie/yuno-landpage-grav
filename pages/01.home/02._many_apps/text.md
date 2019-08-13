@@ -7,7 +7,9 @@ image_align: right
 ## Get the **key** !
 
 A YunoHost server can handle your digital needs, thoses of your friends and opens **new possibilities**.
-Checkout the intro video !
+Checkout this intro video !
 
 
 [Read more](https://getgrav.org/truc?classes=btn,btn-primary,btn-lg)
+
+![video.mp4](video.mp4?loop=1&controls=0&autoplay=1)
