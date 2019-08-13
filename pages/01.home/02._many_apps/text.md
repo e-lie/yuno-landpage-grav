@@ -1,6 +1,6 @@
 ---
 title: Homepage Text Callout
-menu: Easy Content
+menu: Apps
 image_align: right
 ---
 

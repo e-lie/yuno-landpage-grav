@@ -1,7 +1,7 @@
 ---
 title: Homepage Text Callout
-menu: Easy Content
-image_align: right
+menu: Section 2
+image_align: left
 ---
 
 ## **Your Content** Unchained!

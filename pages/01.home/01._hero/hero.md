@@ -5,8 +5,8 @@ hero_classes: parallax text-light
 hero_image: header_ynh.jpg
 ---
 
-# Your stuff, your privacy, your server
-## No technical skill required
+## Your stuff, your privacy, your server
+### No technical skill required
 
 **Yunohost** make easier to control your digital life.
 
