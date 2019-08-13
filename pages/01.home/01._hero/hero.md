@@ -5,12 +5,13 @@ hero_classes: parallax text-light
 hero_image: header_ynh.jpg
 ---
 
-# Say Hello to Grav
-## Fast, Simple, Powerful...
+# Your stuff, your privacy, your server
+## No technical skill required
 
-Grav is a modern flat-file CMS system that focuses on making web development fun again.
+**Yunohost** make easier to control your digital life.
 
-[Read the documentation](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
+[Try the demo](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
+[Introduction video](#intro?classes=btn,btn-secondary,btn-lg&target=_blank)
 
 
 
