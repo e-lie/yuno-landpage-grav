@@ -9,8 +9,7 @@ hero_image: header_ynh.jpg
 
 ### **Yunohost** make easy to gain real control on your digital life.
 
-[Try the demo](https://yunohost.org/#/try_fr?classes=btn,btn-primary,btn-lg&target=_blank)
-
+[Try the demo](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
 
 
 
