@@ -5,13 +5,11 @@ hero_classes: parallax text-light
 hero_image: header_ynh.jpg
 ---
 
-## Your stuff
-## Your privacy
-## Your server
+# Your stuff<\br>Your privacy<\br>Your server
 
 **Yunohost** make easier to control your digital life.
 
-[Introduction video](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
+[Introduction video](#apps?classes=btn,btn-primary,btn-lg&target=_blank)
 
 
 
