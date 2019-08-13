@@ -1,5 +1,5 @@
 ---
-title: Homepage Features
+title: Landpage Features
 menu: Features
 class: small
 features:

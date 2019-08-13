@@ -1,5 +1,5 @@
 ---
-title: Homepage Highlights
+title: Landpage Highlights
 menu: Highlights
 class: offset-box
 features:

@@ -1,5 +1,5 @@
 ---
-title: 'Homepage Hero'
+title: 'Landpage Hero'
 menu: Home
 hero_classes: parallax text-light
 hero_image: header_ynh.jpg

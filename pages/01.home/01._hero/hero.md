@@ -1,5 +1,5 @@
 ---
-title: 'Homepage Hero'
+title: 'Landpage Hero'
 menu: Home
 hero_classes: parallax text-light
 hero_image: header_ynh.jpg
@@ -9,7 +9,7 @@ hero_image: header_ynh.jpg
 
 </br>
 
-### **YunoHost** make it easy to gain real control on your digital life.
+### **YunoHost** makes it easy to gain control and liberty with your digital life.
 
 </br>
 

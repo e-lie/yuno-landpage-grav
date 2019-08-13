@@ -1,5 +1,5 @@
 ---
-title: Homepage Text Callout
+title: Landpage Text Callout
 menu: Section 2
 image_align: left
 ---
