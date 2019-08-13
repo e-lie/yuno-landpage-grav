@@ -13,7 +13,7 @@ hero_image: header_ynh.jpg
 
 </br>
 
-[Introduction Video](https://eliegavoty.fr/testou/#apps?classes=btn,btn-secondary,btn-lg&target=_blank) - [Try the demo](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
+[Introduction Video](https://eliegavoty.fr/testou/#apps)
 
 
 
