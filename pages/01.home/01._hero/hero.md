@@ -7,9 +7,9 @@ hero_image: header_ynh.jpg
 
 # Your stuff, Your privacy, Your server
 
-##**Yunohost** make easy to gain real control on your digital life.
+### **Yunohost** make easy to gain real control on your digital life.
 
-[Introduction video](/#apps)
+[Try the demo](https://yunohost.org/#/try_fr?classes=btn,btn-primary,btn-lg&target=_blank)
 
 
 
