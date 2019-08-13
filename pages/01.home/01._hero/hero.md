@@ -5,7 +5,7 @@ hero_classes: parallax text-light
 hero_image: header_ynh.jpg
 ---
 
-## Your stuff, Your privacy, Your server
+## your **Stuff**, your **Privacy**, your **Server**
 
 </br>
 </br>
