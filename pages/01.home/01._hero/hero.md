@@ -10,7 +10,7 @@ hero_image: header_ynh.jpg
 </br>
 </br>
 
-### **Yunohost** make it easy to gain real control on your digital life.
+### **YunoHost** make it easy to gain real control on your digital life.
 
 </br>
 </br>
