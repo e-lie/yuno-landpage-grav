@@ -7,12 +7,13 @@ hero_image: header_ynh.jpg
 
 ## Your stuff, Your privacy, Your server
 
+</br>
+</br>
+
 ### **Yunohost** make easy to gain real control on your digital life.
 
-
 </br>
 </br>
-
 
 [Try the demo](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
 
