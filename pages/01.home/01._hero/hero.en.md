@@ -10,7 +10,7 @@ hero_image: chloesroom.jpg
 
 </br>
 
-### **YunoHost** makes it easy to gain control and liberty with your digital life.
+### **YunoHost** makes it easy to gain control and liberty over your digital life.
 
 </br>
 
