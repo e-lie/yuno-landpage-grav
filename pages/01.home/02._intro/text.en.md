@@ -8,5 +8,5 @@ image_align: right
 
 A YunoHost server can handle your digital needs (web, mail, social, cloud), thoses of your friends and opens **new possibilities** (your address, more space, your local social network).
 
-#### Checkout this intro video !
+Checkout this **intro video** !
 
