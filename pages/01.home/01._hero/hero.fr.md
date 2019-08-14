@@ -5,7 +5,7 @@ hero_classes: parallax text-light
 hero_image: chloesroom.jpg
 ---
 
-## Ta **vie privée**, tes **affaires**,  
+## Tes **affaires**, ta **vie privée**,
 ## ton **serveur**...
 
 </br>
