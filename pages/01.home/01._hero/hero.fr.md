@@ -2,7 +2,7 @@
 title: 'Landpage Hero'
 menu: Home
 hero_classes: parallax text-light
-hero_image: header_ynh.jpg
+hero_image: ynh_japanese_room.jpg
 ---
 
 ## Ta **Vie privée**, Tes **affaires**, Ton **serveur**
