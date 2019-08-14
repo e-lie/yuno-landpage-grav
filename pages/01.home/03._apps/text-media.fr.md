@@ -10,4 +10,4 @@ media_name: yunohost-user-fr.png
 De nombreuses applications web et services [libres et open sources]() ont été développés ces dernières années. YunoHost permet de les installer en quelques clics. Que vous cherchiez une alternative aux services Google ou de nouvelles possibilités
 
 
-[Explorer les applications](https://getgrav.org?classes=btn,btn-primary,btn-lg)
+[Explorer les applications](https://yunohost.org/#/apps_fr?classes=btn,btn-primary,btn-lg)

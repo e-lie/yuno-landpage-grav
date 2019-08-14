@@ -5,8 +5,8 @@ image_align: left
 media_name: yunohost-user-en.png
 ---
 
-## **Your Content** Unchained!
+## More than a hundred applications !
 
-No longer are you a _help captive by your CMS_. Grav **empowers** you to create anything from a [simple one-page site](https://demo.getgrav.org/onepage-skeleton?target=_blank), to a [beautiful blog](https://demo.getgrav.org/blog-skeleton?target=_blank), to a powerful and feature-rich [shop site](https://demo.getgrav.org/shop-skeleton?target=_blank), to pretty much anything you can dream up!
+Plenty of [free and open source]() services and web applications have been developped in the last few years. YunoHost YunoHost allows to install them in a few clicks. Que vous cherchiez une alternative aux services Google ou de nouvelles possibilitésWhether you are looking for an alternative to Google services or new possibilities you will probably find your solution.
 
-[Find out more...](https://getgrav.org?classes=btn,btn-primary,btn-lg)
+[Explore the applications](https://yunohost.org/#/apps_en?classes=btn,btn-primary,btn-lg)
