@@ -1,9 +1,8 @@
 ---
 title: Landpage get the key
 menu: intro
-image_align: right
 class: offset-box
-media_name: video.mp4
+media_name: video.mp4p
 ---
 
 ## Get the **key** !
@@ -12,3 +11,4 @@ A YunoHost server can handle your digital needs (web, mail, social, cloud, etc.)
 
 Checkout this **intro video** !
 
+![video.mp4](video.mp4)
