@@ -1,6 +1,7 @@
 ---
 title: Landpage get the key
 menu: usages
+class: offset-box
 media_name: right
 ---
 
