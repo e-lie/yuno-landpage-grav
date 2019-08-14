@@ -1,6 +1,6 @@
 ---
 title: Landpage get the key
-menu: usages
+menu: Usages
 image_align: right
 features:
 	- header: techno-enthousiastes

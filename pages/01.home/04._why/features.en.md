@@ -1,6 +1,6 @@
 ---
 title: Landpage get the key
-menu: usages
+menu: Usecases
 image_align: right
 media_name:
 ---

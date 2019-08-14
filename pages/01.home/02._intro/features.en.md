@@ -1,6 +1,6 @@
 ---
 title: Landpage get the key
-menu: intro
+menu: Intro
 class: offset-box
 media_name: video.mp4p
 ---
