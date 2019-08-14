@@ -2,6 +2,16 @@
 title: Landpage get the key
 menu: usages
 image_align: right
+features:
+	- header: Crazy Fast
+	  text: "Performance is not just an afterthought, we baked it in from the start!"
+	  icon: fa fa-fighter-jet
+    - header: Easy to build
+      text: "Simple text files means Grav is trivial to install, and easy to maintain"
+      icon: fa fa-database
+    - header: Awesome Technology
+      text: "Grav employs best-in-class technologies such as Twig, Markdown &amp; Yaml"
+      icon: fa fa-cubes
 ---
 
 ## Why you no host ?
