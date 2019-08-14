@@ -6,7 +6,7 @@ hero_image: chloesroom.jpg
 ---
 
 ## your **Stuff**, your **Privacy**,  
-## your **Server**
+## your **Server**...
 
 </br>
 

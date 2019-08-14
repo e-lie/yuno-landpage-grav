@@ -5,12 +5,12 @@ hero_classes: parallax text-light
 hero_image: chloesroom.jpg
 ---
 
-## Ta **Vie privée**, Tes **affaires**,  
-## Ton **serveur**
+## Ta **vie privée**, tes **affaires**,  
+## ton **serveur**...
 
 </br>
 
-### **YunoHost** permet d'avoir le contrôle de sa vie numérique en installant facilement son propre serveur internet.
+### **YunoHost** permet de prendre le contrôle de sa vie numérique en installant facilement son propre serveur internet.
 
 </br>
 
