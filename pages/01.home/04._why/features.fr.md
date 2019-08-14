@@ -4,7 +4,7 @@ menu: usages
 image_align: right
 features:
 	- header: techno-enthousiastes
-	  text: "Vous pouvez réutiliser votre raspberry pi, installer votre serveur git ou même bricoler votre domotique"
+	  text: "Vous pouvez réutiliser votre raspberry pi, installer votre serveur git ou même bricoler votre domotique."
 	  icon: fa fa-flask
     - header: vie privée et engagement
       text: "YunoHost vise à supporter plus de décentralisation et de respect des utilisateurs d'internet à travers l'action concrête de l'autohébergement."
