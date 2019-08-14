@@ -10,7 +10,7 @@ hero_image: chloesroom.jpg
 
 </br>
 
-### **YunoHost** permet de reprendre le contrôle de sa vie numérique en installant facilement son propre serveur internet.
+### **YunoHost** permet d'avoir le contrôle de sa vie numérique en installant facilement son propre serveur internet.
 
 </br>
 

@@ -10,14 +10,14 @@ InTrash=false
 [Exposure]
 Auto=false
 Clip=0.02
-Compensation=0
-Brightness=0
+Compensation=-1.1799999999999999
+Brightness=-35
 Contrast=0
-Saturation=0
-Black=0
-HighlightCompr=0
+Saturation=31
+Black=-922
+HighlightCompr=304
 HighlightComprThreshold=0
-ShadowCompr=50
+ShadowCompr=100
 HistogramMatching=false
 CurveFromHistogramMatching=false
 ClampOOG=true
@@ -163,8 +163,8 @@ Uniformity=5
 [White Balance]
 Enabled=true
 Setting=Camera
-Temperature=6504
-Green=1
+Temperature=6490
+Green=1.002
 Equal=1
 TemperatureBias=0
 
@@ -179,7 +179,7 @@ Surrsrc=Average
 AdaptLum=16
 Badpixsl=0
 Model=RawT
-Algorithm=No
+Algorithm=JC
 J-Light=0
 Q-Bright=0
 C-Chroma=0
@@ -239,7 +239,7 @@ C2Method=AUTO
 SMethod=shal
 MedMethod=soft
 RGBMethod=soft
-MethodMed=none
+MethodMed=Lonly
 Redchro=0
 Bluechro=0
 Gamma=1.7
@@ -272,10 +272,10 @@ Lab=false
 
 [Crop]
 Enabled=false
-X=-1
-Y=-1
-W=15000
-H=15000
+X=0
+Y=0
+W=1920
+H=1080
 FixedRatio=true
 Ratio=As Image
 Orientation=As Image
@@ -336,7 +336,7 @@ CenterY=0
 
 [Resize]
 Enabled=false
-Scale=1
+Scale=0.46999999999999997
 AppliesTo=Cropped area
 Method=Lanczos
 DataSpecified=3
@@ -362,7 +362,7 @@ DeconvDamping=0
 DeconvIterations=100
 
 [Color Management]
-InputProfile=(cameraICC)
+InputProfile=(embedded)
 ToneCurve=false
 ApplyLookTable=false
 ApplyBaselineExposureOffset=true
@@ -371,7 +371,7 @@ DCPIlluminant=0
 WorkingProfile=ProPhoto
 WorkingTRC=none
 WorkingTRCGamma=2.3999999999999999
-WorkingTRCSlope=12.9231
+WorkingTRCSlope=12.92
 OutputProfile=RTv4_sRGB
 OutputProfileIntent=Relative
 OutputBPC=true
@@ -558,9 +558,9 @@ LabRegionChannel_1=-1
 LabRegionsShowMask=-1
 
 [RAW]
-DarkFrame=
+DarkFrame=/szeva
 DarkFrameAuto=false
-FlatFieldFile=
+FlatFieldFile=/szeva
 FlatFieldAutoSelect=false
 FlatFieldBlurRadius=32
 FlatFieldBlurType=Area Flatfield
