@@ -2,7 +2,7 @@
 title: 'Landpage Hero'
 menu: Home
 hero_classes: parallax text-light
-hero_image: ynh_janapese_room.jpg
+hero_image: chloesroom.jpg
 ---
 
 ## Ta **Vie privée**, Tes **affaires**,  
