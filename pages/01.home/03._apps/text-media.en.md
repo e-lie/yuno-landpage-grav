@@ -1,7 +1,8 @@
 ---
-title: Landpage Text Callout
-menu: Section 2
+title: Landpage applications
+menu: apps
 image_align: left
+media_name: yunohost-user-en.png
 ---
 
 ## **Your Content** Unchained!
