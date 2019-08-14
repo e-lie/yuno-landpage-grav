@@ -6,7 +6,7 @@ hero_image: ynh_janapese_room.jpg
 ---
 
 ## Ta **Vie privée**, Tes **affaires**,  
-Ton **serveur**
+## Ton **serveur**
 
 </br>
 

@@ -6,7 +6,7 @@ hero_image: ynh_janapese_room.jpg
 ---
 
 ## your **Stuff**, your **Privacy**,  
-your **Server**
+## your **Server**
 
 </br>
 
