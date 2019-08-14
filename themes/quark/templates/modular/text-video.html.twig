@@ -3,11 +3,11 @@
 <section class="section modular-text {{ page.header.class}} bg-gray">
     <section class="container {{ grid_size }}">
         <div class="columns {{ page.header.image_align|default('align-right') }}">
-            <div class="column col-4 col-md-12">
+            <div class="column col-6 col-md-12">
                 {{ content|raw }}
             </div>
-            <div class="column col-8 col-md-12">
-                {{ page.media['video.mp4'] }}
+            <div class="column col-6 col-md-12">
+                {{ page.media[page.header.video_name] }}
             </div>
         </div>
     </section>

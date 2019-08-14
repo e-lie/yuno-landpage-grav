@@ -2,6 +2,7 @@
 title: Landpage get the key
 menu: intro
 image_align: right
+video_name: video.mp4
 ---
 
 ## Get the **key** !
