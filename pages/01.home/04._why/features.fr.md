@@ -9,8 +9,8 @@ features:
     - header: vie privée et engagement
       text: "YunoHost vise à supporter plus de décentralisation et de respect des utilisateurs d'internet à travers l'action concrête de l'autohébergement."
       icon: fa fa-eye-slash
-    - header: entreprises et assocations
-      text: "YunoHost propose de nombreuses solutions pour les mails, la production et le travail collaboratif. Contactez-nous."
+    - header: assocations et entreprises
+      text: "YunoHost propose de nombreuses solutions pour les mails, la production et le travail collaboratif. Contactez-nous !"
       icon: fa fa-cubes
 ---
 
