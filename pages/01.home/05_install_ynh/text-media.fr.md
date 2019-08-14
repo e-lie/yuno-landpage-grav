@@ -1,20 +1,14 @@
 ---
 title: Landpage get the key
-menu: usages
-class: offset-box
-media_name: right
+menu: installation
+image_align: left
+media_name:
 ---
 
-## Why you no host ?
+## Installer Yunohost
 
-Yunohost peut répondre à plusieurs types de besoins:
+Suivez les instructions de [cette documentation.](https://yunohost.org/#/install_fr)
+Une video d'installation sera bientôt disponible.
 
-- Pour les techno-enthousiastes : vous pouvez réutiliser votre raspberry pi, installer votre serveur git ou même bricoler votre domotique.
+Vous pouvez aussi trouver de l'aide sur le [https://forum.yunohost.org]
 
-- Si vous êtes préoccupés par l'avenir d'internet: YunoHost vise à supporter plus de décentralisation et de respect des utilisateurs d'internet l'action concrête de l'autohébergement.
-- 
-
-- Pour les **entreprises** et **assocations**: les applications yunohost incluent de nombreuses solutions pour la production et le travail collaboratif, les mails et l'organisation. Contactez-nous si vous réfléchissez à un meilleur controle de vos données.
-
-
-[Read more](https://getgrav.org/truc?classes=btn,btn-primary,btn-lg)
