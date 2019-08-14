@@ -5,11 +5,12 @@ hero_classes: parallax text-light
 hero_image: ynh_janapese_room.jpg
 ---
 
-## Ta **Vie privée**, Tes **affaires**, Ton **serveur**
+## Ta **Vie privée**, Tes **affaires**,  
+Ton **serveur**
 
 </br>
 
-### **YunoHost** make it easy to gain real control on your digital life.
+### **YunoHost** makes it easy to gain real control on your digital life.
 
 </br>
 
