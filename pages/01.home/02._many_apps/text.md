@@ -11,5 +11,3 @@ Checkout this intro video !
 
 
 [Read more](https://getgrav.org/truc?classes=btn,btn-primary,btn-lg)
-
-![video.mp4](video.mp4?loop=1&controls=0&autoplay=1)
