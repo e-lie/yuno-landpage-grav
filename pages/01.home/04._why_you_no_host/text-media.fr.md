@@ -1,7 +1,7 @@
 ---
 title: Landpage get the key
-menu: intro
-image_align: right
+menu: usages
+media_name: right
 ---
 
 ## Get the **key** !

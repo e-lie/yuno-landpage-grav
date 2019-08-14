@@ -14,7 +14,7 @@ hero_image: chloesroom.jpg
 
 </br>
 
-[Introduction Video](https://eliegavoty.fr/testou/#apps) - [Try the demo](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
+[Introduction Video](https://eliegavoty.fr/testou/en#intro) - [Try the demo](https://demo.yunohost.org)
 
 
 
