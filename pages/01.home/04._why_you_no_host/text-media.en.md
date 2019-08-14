@@ -1,7 +1,7 @@
 ---
 title: Landpage get the key
 menu: usages
-image_align: right
+image_align: left
 media_name:
 ---
 

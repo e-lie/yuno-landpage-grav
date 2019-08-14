@@ -1,7 +1,7 @@
 ---
 title: Landpage get the key
 menu: installation
-image_align: left
+image_align: right
 media_name:
 ---
 

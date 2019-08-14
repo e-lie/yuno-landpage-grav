@@ -1,7 +1,7 @@
 ---
 title: Landpage get the key
 menu: usages
-media_name: 
+image_align: left
 ---
 
 ## Why you no host ?
