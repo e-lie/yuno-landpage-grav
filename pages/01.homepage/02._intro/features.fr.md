@@ -15,8 +15,8 @@ features:
       icon: fa fa-cube
 ---
 
-# Pourquoi Yunohost ?
-## **Vous** avez la **clé** !
+## Pourquoi Yunohost ?
+# **Vous** avez la **clé** !
 
 
 **Yunohost** est un **logiciel libre** à installer sur un **ordinateur de votre choix** pour en faire un **serveur** et participer à Internet.
