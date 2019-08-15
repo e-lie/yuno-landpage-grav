@@ -17,8 +17,8 @@ final class HandlerContainer implements HandlerContainerInterface
         $this->guardHandler($handler);
 
         if (empty($name) || $this->has($name)) {
-            print('FLAGGGG_');
-            print($name);
+            error_log($name, 3, "/tmp/my-errors.log");
+
             $msg = 'Invalid name or duplicate shortcode handler for %s!';
             throw new \RuntimeException(sprintf($msg, $name));
         }
