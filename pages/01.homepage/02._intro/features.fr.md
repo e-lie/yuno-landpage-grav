@@ -8,10 +8,10 @@ features:
       text: "Un serveur Yunohost peut répondre à vos besoins numériques et ceux de vos proches : mail, web, social, cloud, etc."
       icon: fa fa-group
     - header: Nouvelles possibilités
-      text: "Votre serveur Yunohost ouvre de nouvelles possibilités : votre propre adresse, plus d'espace de stockage, votre propre instance de réseau social..."
+      text: "Votre serveur Yunohost ouvre de nouvelles possibilités : votre propre adresse, plus d'espace de stockage, votre propre instance de réseau social and much more..."
       icon: fa fa-rocket
     - header: Découvrir Internet
-      text: "La communauté YunoHost s'efforce de rendre l'hébergement plus accessible pour faire découvrir plus largement l'envers d'internet."
+      text: "La communauté YunoHost s'efforce de rendre l'hébergement d'un serveur plus accessible pour faire découvrir plus largement l'envers d'internet."
       icon: fa fa-search
 ---
 

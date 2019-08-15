@@ -9,7 +9,7 @@ features:
       text: "YunoHost vise à supporter plus de décentralisation et de respect des utilisateurs d'internet à travers l'action concrête de l'auto-hébergement."
       icon: fa fa-eye-slash
     - header: associations et entreprises
-      text: "YunoHost propose de nombreuses solutions pour les mails, la production et le travail collaboratif."
+      text: "YunoHost propose de nombreuses solutions pour les mails, la bureautique et le travail collaboratif."
       icon: fa fa-cubes
 ---
 

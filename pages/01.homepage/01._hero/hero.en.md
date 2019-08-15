@@ -2,7 +2,7 @@
 title: 'Landpage Hero'
 menu: Home
 hero_classes: parallax text-light
-hero_image: chloesroom.jpg
+hero_image: room2.jpg
 ---
 
 ## your **Stuff**, your **Privacy**,  
