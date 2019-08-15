@@ -1,7 +1,9 @@
 ---
 title: Landpage get the key
 menu: Intro
-class: offset-box, small
+class:
+  - offset-box
+  - small
 media_name: video.mp4
 features:
     - header: Alternative éthique
