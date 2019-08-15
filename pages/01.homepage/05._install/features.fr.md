@@ -1,7 +1,6 @@
 ---
 title: Landpage get the key
 menu: Installation
-image_align: left
 features:
     - header: Alternative éthique
       text: "Un serveur Yunohost peut répondre à vos besoins numériques et ceux de vos proches : mail, web, social, cloud, etc."
