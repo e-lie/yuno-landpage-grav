@@ -7,7 +7,9 @@ media_name:
 
 ## Communauté
 
-Contribution
-Philosophie du projet
-Pas un service
-le potager d'internet
+Idées
+
+- Contribution
+- Philosophie du projet
+- Pas un service
+- le potager d'internet
