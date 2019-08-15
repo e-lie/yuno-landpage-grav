@@ -1,0 +1,63 @@
+---
+title: 'Yunohost Documentation'
+theme: learn4
+taxonomy:
+    category: docs
+---
+
+# Documentation pour les administrateurs YunoHost
+
+* Découvrir l'auto-hébergement
+    * [Qu'est-ce que l'auto-hébergement](/selfhosting_fr)
+    * [Qu'est-ce que YunoHost](/whatsyunohost_fr)
+    * [Essayer YunoHost](/try_fr)
+    * [Choisir son mode d'hébergement](howtohostyourself_fr)
+        * [Matériel compatible](/hardware_fr)
+        * [À propos des fournisseurs d'accès internet](/isp_fr)
+* [Guide d’installation](/install_fr)
+    * [Sur un ordinateur "standard"](/install_iso_fr)
+    * [Sur un serveur dédié ou virtuel (VPS)](/install_on_vps_fr)
+    * [Sur un Raspberry Pi](/install_on_raspberry_fr)
+    * [Sur une carte ARM](/install_on_arm_board_fr)
+    * [Sur Debian](/install_on_debian_fr)
+    * [Sur VirtualBox](/install_on_virtualbox_fr)
+* Finaliser son installation
+    * [Post-installation](/postinstall_fr)
+    * [Configurer les redirections de port](/isp_box_config_fr)
+    * [Configurer les enregistrements DNS](/dns_config_fr)
+    * [Installer un certificat SSL](/certificate_fr)
+    * [Diagnostic du bon fonctionnement du YunoHost](/diagnostic_fr)
+* Apprendre à connaitre YunoHost
+    * [Vue d'ensemble de YunoHost](/overview_fr)
+    * [Conseil généraux](/guidelines_fr)
+    * [L'interface d'administration web](/admin_fr)
+    * [SSH](/ssh_fr) et [l'administration en ligne de commande](/commandline_fr)
+    * [Les utilisateurs et le SSO](/users_fr)
+    * [Les applications](/apps_overview_fr)
+    * [Les domaines, la configuration DNS et les certificats](/domains_fr)
+    * [Les emails](/email_fr)
+    * [XMPP](/XMPP_fr)
+    * [Les sauvegardes](/backup_fr)
+    * [Mettre à jour le système](/update_fr) et [les applications](/app_update_fr)
+    * [La sécurité](/security_fr)
+* Pour aller plus loin
+    * Noms de domaine
+        * [Nom de domaine en noho.st / nohost.me / ynh.fr](/dns_nohost_me_fr)
+        * [Configurer un DNS dynamique avec une adresse IP dynamique](/dns_dynamicip_fr)
+        * [DNS et installation d’une application sur un sous-domaine](/dns_subdomains_fr)
+        * [Utiliser le résolveur DNS local](/dns_resolver_fr)
+        * [Gérer les enregistrements DNS chez OVH](/OVH_fr)
+    * Notes à propos de certains fournisseurs d'accès à Internet
+       * [SFR](/isp_sfr_fr)
+       * [Orange](/isp_orange_fr)
+       * [Free](/isp_free_fr)
+    * [Échanger des fichiers avec son serveur à l'aide d'une interface graphique](/filezilla)
+    * [Modifier l'apparence du portail utilisateur](/theming_fr)
+    * [Ajouter un stockage externe](/external_storage_fr)
+    * [Migrer ses emails vers YunoHost](/email_migration_fr)
+    * [YunoHost avec un service caché Tor](/torhiddenservice_fr)
+    * [Utilisation de certificats autres que Let's Encrypt](/certificate_custom_fr)
+* [Guide de dépannage](/troubleshooting_guide_fr)
+    * [Débloquer une IP dans Fail2ban](/fail2ban_fr)
+    * [Changer le mot de passe d’administration](/change_admin_password_fr)
+    * [Formulaires pour enlever son IP des listes noires](/blacklist_forms_fr)

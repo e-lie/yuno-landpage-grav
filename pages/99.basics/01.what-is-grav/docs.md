@@ -1,5 +1,5 @@
 ---
-title: 'Yunohost Documentation'
+title: What is Grav?
 theme: learn4
 taxonomy:
     category: docs
