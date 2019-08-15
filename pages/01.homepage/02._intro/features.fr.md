@@ -1,7 +1,7 @@
 ---
 title: Landpage get the key
 menu: Intro
-class: offset-box, small
+class: offset-box
 media_name: video.mp4
 features:
     - header: Alternatives
@@ -20,5 +20,3 @@ features:
 
 ![video.mp4](video.mp4)
 
-
-Un **serveur Yunohost** peut répondre à vos **besoins numériques** et ceux de vos proches. 
