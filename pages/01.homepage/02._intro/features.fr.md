@@ -10,6 +10,12 @@ features:
     - header: Nouvelles possibilités
       text: "Un **serveur Yunohost** peut répondre à vos **besoins numériques** et ceux de vos proches : mail, web, social, cloud, etc."
       icon: fa fa-eye-slash
+    - header: Alternatives
+      text: "Yunohost est un logiciel libre à installer sur un ordinateur pour en faire un serveur et participer à Internet."
+      icon: fa fa-flask
+    - header: Nouvelles possibilités
+      text: "Un **serveur Yunohost** peut répondre à vos **besoins numériques** et ceux de vos proches : mail, web, social, cloud, etc."
+      icon: fa fa-eye-slash
 ---
 
 # Vous avez la clé !
