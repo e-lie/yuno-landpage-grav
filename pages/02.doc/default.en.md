@@ -1,9 +1,5 @@
 ---
 title: 'Yunohost Documentation'
----
-
----
-title: What is Grav?
 taxonomy:
     category: docs
 ---
