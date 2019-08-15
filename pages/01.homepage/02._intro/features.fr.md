@@ -19,7 +19,7 @@ features:
 ## YunoHost n'est pas un service...
 
 
-C'est un **logiciel libre** à installer sur un **ordinateur de votre choix** pour en faire un **serveur** et participer à Internet.
+... c'est un **logiciel libre** à installer sur un **ordinateur de votre choix** pour en faire un **serveur** et participer à Internet.
 
 </br>
 
