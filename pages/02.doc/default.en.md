@@ -1,5 +1,6 @@
 ---
 title: 'Yunohost Documentation'
+theme: learn4
 taxonomy:
     category: docs
 ---
