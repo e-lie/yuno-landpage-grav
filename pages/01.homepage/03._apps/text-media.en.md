@@ -1,7 +1,6 @@
 ---
 title: Landpage applications
 menu: Apps
-image_align: left
 media_name: yunohost-user-en.png
 ---
 
